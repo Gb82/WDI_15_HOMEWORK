@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+};
+
+.firstbox img {
+  display: block;
+}
+
+/* div p {
+  display: block;
+}; */
+
+.forthbox img {
+  float: right;
+
+}
+
+.end {
+  
+};
